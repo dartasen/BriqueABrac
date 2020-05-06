@@ -18,7 +18,4 @@ Les musiques (dont on ne doutera ni de la qualité, ni de la pertinence dans not
 * Une kinect V2 que vous branchez sur un port USB 3.0
 * Unity version 2018.3.11f1 si vous souhaitez recompiler le code
 
-Bugs connus :
-* Pour des raions inconnues, l'AudioManager joue les musiques depuis l'éditeur Unity mais pas dans le code compilé
-
 Bon jeu !
